@@ -1,0 +1,18 @@
+#logo-home-div {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    
+    margin-top: 5rem;
+  }
+
+
+#welcome-div {
+  background-color: transparent;
+  color: white;
+}
+
+#welcome-text {
+    text-align: center;
+    font-size: 2.5rem;
+}
